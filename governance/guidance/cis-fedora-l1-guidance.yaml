@@ -135,3 +135,4 @@ guidelines:
     statements:
       - id: guidance-operations-s1
         text: The dconf database MUST be reloaded after any GDM or GNOME configuration changes to ensure settings take effect.
+# test: verify failure headings in summary
